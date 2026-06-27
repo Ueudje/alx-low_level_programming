@@ -1,6 +1,6 @@
 #C - Debugging
 
-#TASKS.
+#TASKS
 
 0. Multiple mains
 mandatory
